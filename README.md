@@ -25,7 +25,7 @@ As part of the merger preparation, the management team at Lio wants to analyse t
 
 This report presents a comparative analysis of the content libraries of two prominent streaming platforms: Jotstar and LioCinema. By examining key content attributes such as content type, language diversity, genre distribution, and runtime patterns, the report aims to uncover platform-specific strategies and audience targeting approaches. The insights derived from this analysis can inform content acquisition, production focus, and regional market expansion efforts.
 
-### Content Library Analysis
+### A. Content Library Analysis
 
  1. **Content Type Distribution**
 
@@ -74,7 +74,7 @@ This report presents a comparative analysis of the content libraries of two prom
 
 ---
 
-### Subscriber Analysis
+### B. Subscriber Analysis
 
 1. Subscriber Growth Trends
 
@@ -133,7 +133,7 @@ This report presents a comparative analysis of the content libraries of two prom
 
 ---
 
-### Inactivity Analysis
+### C. Inactivity Analysis
 
 1. Inactivity by Age Group
 
@@ -185,7 +185,7 @@ This report presents a comparative analysis of the content libraries of two prom
 
 ---
 
-### Content Consumption Behavior Analysis
+### D. Content Consumption Behavior Analysis
 
 1. Watch Time Distribution by Platform
 
