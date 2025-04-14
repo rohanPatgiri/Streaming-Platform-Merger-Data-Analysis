@@ -1,6 +1,6 @@
 # Streaming Platform Merger Data Analysis
 
-## Problem Statement
+## 1. Problem Statement
 
 Lio, a leading telecommunications provider in India, is planning a strategic merger with 
 Jotstar, one of the country’s most prominent streaming platforms. This potential partnership aims to combine LioCinema’s expansive subscriber base and Jotstar’s diverse content library to revolutionize digital streaming in India. 
@@ -10,18 +10,18 @@ As part of the merger preparation, the management team at Lio wants to analyse t
 **My Objective**
 - To analyze the data provided to find valuable insights and present it to the management team, along with actionable recommendations that they can use to achieve their goal of establishing Lio-Jotstar as the leading OTT platform in India.  
 
-## Analysis Process
+## 2. Analysis Process
 
 - The code that I used to analyze the datasets is available in the following GitHub repository: https://github.com/rohanPatgiri/Streaming-Platform-Merger-Data-Analysis/tree/main
 - I also made a Video series where I demonstarte my analysis process. It is available in the following YouTube playlist: https://youtube.com/playlist?list=PLHH8hpjyiibG0L_672gVvT3y8UL0xziYp&si=A1fc5W2-mQxymrb_
 
 
 
-## Dashboard
+## 3. Dashboard
 
 - A dashboard, visualizing the important netrics and data points, is available here: 
 
-## Final Report
+## 4. Final Report
 
 This report presents a comparative analysis of the content libraries of two prominent streaming platforms: Jotstar and LioCinema. By examining key content attributes such as content type, language diversity, genre distribution, and runtime patterns, the report aims to uncover platform-specific strategies and audience targeting approaches. The insights derived from this analysis can inform content acquisition, production focus, and regional market expansion efforts.
 
