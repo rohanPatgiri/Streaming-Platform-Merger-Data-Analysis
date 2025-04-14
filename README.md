@@ -7,13 +7,13 @@ Jotstar, one of the country’s most prominent streaming platforms. This potenti
 
 As part of the merger preparation, the management team at Lio wants to analyse the performance and user behavior of both platforms—LioCinema and Jotstar—over the past one year (January to November 2024). The goal is to gain insights into individual platform performance, content consumption patterns, subscriber growth, Inactivity behavior, upgrade and downgrade trends. The insights derived from this study will help the management make  informed decisions and optimize content strategies post-merger, with the ultimate goal of establishing Lio-Jotstar as the leading OTT platform in India. 
 
-** My Objective**
+**My Objective**
 - To analyze the data provided to find valuable insights and present it to the management team, along with actionable recommendations that they can use to achieve their goal of establishing Lio-Jotstar as the leading OTT platform in India.  
 
 ## Analysis Process
 
-- The code that I used to analyze the datasets is available in the following GitHub repository:
-- I also made a Video series where I demonstarte my analysis process. It is available in the following YouTube playlist: 
+- The code that I used to analyze the datasets is available in the following GitHub repository: https://github.com/rohanPatgiri/Streaming-Platform-Merger-Data-Analysis/tree/main
+- I also made a Video series where I demonstarte my analysis process. It is available in the following YouTube playlist: https://youtube.com/playlist?list=PLHH8hpjyiibG0L_672gVvT3y8UL0xziYp&si=A1fc5W2-mQxymrb_
 
 
 
